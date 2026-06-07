@@ -1,0 +1,14 @@
+# Node Modules
+node_modules/
+
+# Local Authentication folder (Isse QR code wali file upload nahi hogi)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Environment files
+.env
+
+# Logs and system files
+*.log
+.DS_Store
+dist/
